@@ -10,7 +10,7 @@ I improved the clustering accuracy by introducing GCN to VaDE. Dataset:USPS. The
 
 # Experiment
 
-![image](https://github.com/BJFUWDW/VGDCN-A-Deep-Clustering-Network-based-on-VaDE-and-GCN/blob/main/images/paper_exp2.png)
+![image](https://github.com/BJFUWDW/VGDCN-A-Deep-Clustering-Network-based-on-VaDE-and-GCN/blob/main/images/overallframework_git.png)
 
 # Reference
  - This research is my undergraduate graduation project. Thanks for the support of my Alma Mater:Beijing Forestry University.
