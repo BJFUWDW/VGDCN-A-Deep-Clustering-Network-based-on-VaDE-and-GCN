@@ -4,6 +4,7 @@ A Deep Clustering Network based on VaDE and GCN
 # Introduction
 I improved the clustering accuracy by introducing GCN to VaDE. Dataset:USPS. The code will be updated later.
 
+
 # Usage
 
 # Reference
@@ -11,4 +12,5 @@ I improved the clustering accuracy by introducing GCN to VaDE. Dataset:USPS. The
  - I may continue to study the deep clustering in Shenyang Institute of Automation Chinese Academy of Sciences in my master's stage, which help me a lot in this project. My new research will be published here in the name of Robot Vision Group.
 
 # Experiment
+
 ![image](https://github.com/BJFUWDW/VGDCN-A-Deep-Clustering-Network-based-on-VaDE-and-GCN/blob/main/images/paper_exp2.png)
